@@ -1,0 +1,136 @@
+C:\Users\Serkan\Desktop\SQL Yardımcısı\bin\Debug\SQL Yardımcısı.exe.config
+C:\Users\Serkan\Desktop\SQL Yardımcısı\obj\Debug\SQL_Yardimcisi.csprojResolveAssemblyReference.cache
+C:\Users\Serkan\Desktop\SQL Yardımcısı\obj\Debug\SQL_Yardimcisi.frm_sqlYardimcisi.resources
+C:\Users\Serkan\Desktop\SQL Yardımcısı\obj\Debug\SQL_Yardimcisi.Properties.Resources.resources
+C:\Users\Serkan\Desktop\SQL Yardımcısı\obj\Debug\SQL_Yardimcisi.csproj.GenerateResource.Cache
+C:\Users\Serkan\Desktop\SQL Yardımcısı\bin\Debug\SQL Yardımcısı.exe
+C:\Users\Serkan\Desktop\SQL Yardımcısı\bin\Debug\SQL Yardımcısı.pdb
+C:\Users\Serkan\Desktop\SQL Yardımcısı\obj\Debug\SQL Yardımcısı.exe
+C:\Users\Serkan\Desktop\SQL Yardımcısı\obj\Debug\SQL Yardımcısı.pdb
+D:\Serkan Yarar\C# Programlar\2 Şirket\SQL Yardımcısı\bin\Debug\SQL Yardımcısı.exe.config
+D:\Serkan Yarar\C# Programlar\2 Şirket\SQL Yardımcısı\obj\Debug\SQL Yardımcısı.exe
+D:\Serkan Yarar\C# Programlar\2 Şirket\SQL Yardımcısı\obj\Debug\SQL Yardımcısı.pdb
+D:\Serkan Yarar\C# Programlar\2 Şirket\SQL Yardımcısı\obj\Debug\SQL_Yardimcisi.Properties.Resources.resources
+D:\Serkan Yarar\C# Programlar\2 Şirket\SQL Yardımcısı\obj\Debug\SQL_Yardimcisi.csproj.GenerateResource.Cache
+D:\Serkan Yarar\C# Programlar\2 Şirket\SQL Yardımcısı\bin\Debug\SQL Yardımcısı.exe
+D:\Serkan Yarar\C# Programlar\2 Şirket\SQL Yardımcısı\bin\Debug\SQL Yardımcısı.pdb
+D:\Serkan Yarar\C# Programlar\2 Şirket\SQL Yardımcısı\bin\Debug\vt_Sql.mdb
+D:\Serkan Yarar\C# Programlar\2 Şirket\SQL Yardımcısı\obj\Debug\SQL_Yardimcisi.frm_Hakkinda.resources
+D:\Serkan Yarar\C# Programlar\2 Şirket\SQL Yardımcısı\obj\Debug\SQL_Yardimcisi.frm_Bul.resources
+D:\Serkan Yarar\C# Programlar\2 Şirket\SQL Yardımcısı\obj\Debug\SQL_Yardimcisi.frm_Yardim.resources
+D:\Serkan Yarar\C# Programlar\2 Şirket\SQL Yardımcısı\obj\Debug\SQL_Yardimcisi.frm_Anaform.resources
+D:\Serkan Yarar\C# Programlar\2 Şirket\SQL Yardımcısı\obj\Debug\SQL_Yardimcisi.frm_Degistir.resources
+D:\Serkan Yarar\C# Programlar\2 Şirket\SQL Yardımcısı\obj\Debug\KareRadioButton.resources
+C:\Users\musta\Desktop\Yeni\SQL Yardımcısı\bin\Debug\vt_Sql.mdb
+C:\Users\musta\Desktop\Yeni\SQL Yardımcısı\obj\Debug\SQL_Yardimcisi.csprojResolveAssemblyReference.cache
+C:\Users\musta\Desktop\Yeni\SQL Yardımcısı\obj\Debug\SQL_Yardimcisi.frm_Bul.resources
+C:\Users\musta\Desktop\Yeni\SQL Yardımcısı\obj\Debug\SQL_Yardimcisi.frm_Degistir.resources
+C:\Users\musta\Desktop\Yeni\SQL Yardımcısı\obj\Debug\SQL_Yardimcisi.frm_Hakkinda.resources
+C:\Users\musta\Desktop\Yeni\SQL Yardımcısı\obj\Debug\SQL_Yardimcisi.frm_Anaform.resources
+C:\Users\musta\Desktop\Yeni\SQL Yardımcısı\obj\Debug\KareRadioButton.resources
+C:\Users\musta\Desktop\Yeni\SQL Yardımcısı\obj\Debug\SQL_Yardimcisi.Properties.Resources.resources
+C:\Users\musta\Desktop\Yeni\SQL Yardımcısı\obj\Debug\SQL_Yardimcisi.csproj.GenerateResource.Cache
+C:\Users\musta\Desktop\Yeni\SQL Yardımcısı\bin\Debug\SQL Yardimcisi.exe.config
+C:\Users\musta\Desktop\Yeni\SQL Yardımcısı\bin\Debug\SQL Yardimcisi.exe
+C:\Users\musta\Desktop\Yeni\SQL Yardımcısı\bin\Debug\SQL Yardimcisi.pdb
+C:\Users\musta\Desktop\Yeni\SQL Yardımcısı\obj\Debug\SQL Yardimcisi.exe
+C:\Users\musta\Desktop\Yeni\SQL Yardımcısı\obj\Debug\SQL Yardimcisi.pdb
+C:\Users\musta\Desktop\Masaüstü\Sağ masaüstü\Yeni\SQL Yardımcısı\bin\Debug\SQL Yardimcisi.exe.config
+C:\Users\musta\Desktop\Masaüstü\Sağ masaüstü\Yeni\SQL Yardımcısı\obj\Debug\SQL Yardimcisi.exe
+C:\Users\musta\Desktop\Masaüstü\Sağ masaüstü\Yeni\SQL Yardımcısı\obj\Debug\SQL Yardimcisi.pdb
+C:\Users\Serkan\Dropbox (Null)\Null Team Folder\Projeler\Masaüstü\Düzenlenecek\SQL Yardımcısı\SQL Yardımcısı v2\bin\Debug\SQL Yardimcisi.exe.config
+C:\Users\Serkan\Dropbox (Null)\Null Team Folder\Projeler\Masaüstü\Düzenlenecek\SQL Yardımcısı\SQL Yardımcısı v2\obj\Debug\SQL Yardimcisi.exe
+C:\Users\Serkan\Dropbox (Null)\Null Team Folder\Projeler\Masaüstü\Düzenlenecek\SQL Yardımcısı\SQL Yardımcısı v2\obj\Debug\SQL Yardimcisi.pdb
+C:\Users\Serkan\Dropbox (Null)\Null Team Folder\Projeler\Masaüstü\Düzenlenecek\SQL Yardımcısı\SQL Yardımcısı v2\bin\Debug\vt_Sql.mdb
+C:\Users\Serkan\Dropbox (Null)\Null Team Folder\Projeler\Masaüstü\Düzenlenecek\SQL Yardımcısı\SQL Yardımcısı v2\bin\Debug\SQL Yardimcisi.exe
+C:\Users\Serkan\Dropbox (Null)\Null Team Folder\Projeler\Masaüstü\Düzenlenecek\SQL Yardımcısı\SQL Yardımcısı v2\bin\Debug\SQL Yardimcisi.pdb
+C:\Users\Serkan\Dropbox (Null)\Null Team Folder\Projeler\Masaüstü\Düzenlenecek\SQL Yardımcısı\SQL Yardımcısı v2\obj\Debug\SQL_Yardimcisi.csprojResolveAssemblyReference.cache
+C:\Users\Serkan\Dropbox (Null)\Null Team Folder\Projeler\Masaüstü\Düzenlenecek\SQL Yardımcısı\SQL Yardımcısı v2\obj\Debug\SQL_Yardimcisi.frm_Bul.resources
+C:\Users\Serkan\Dropbox (Null)\Null Team Folder\Projeler\Masaüstü\Düzenlenecek\SQL Yardımcısı\SQL Yardımcısı v2\obj\Debug\SQL_Yardimcisi.frm_Degistir.resources
+C:\Users\Serkan\Dropbox (Null)\Null Team Folder\Projeler\Masaüstü\Düzenlenecek\SQL Yardımcısı\SQL Yardımcısı v2\obj\Debug\SQL_Yardimcisi.frm_Hakkinda.resources
+C:\Users\Serkan\Dropbox (Null)\Null Team Folder\Projeler\Masaüstü\Düzenlenecek\SQL Yardımcısı\SQL Yardımcısı v2\obj\Debug\SQL_Yardimcisi.frm_Anaform.resources
+C:\Users\Serkan\Dropbox (Null)\Null Team Folder\Projeler\Masaüstü\Düzenlenecek\SQL Yardımcısı\SQL Yardımcısı v2\obj\Debug\KareRadioButton.resources
+C:\Users\Serkan\Dropbox (Null)\Null Team Folder\Projeler\Masaüstü\Düzenlenecek\SQL Yardımcısı\SQL Yardımcısı v2\obj\Debug\SQL_Yardimcisi.Properties.Resources.resources
+C:\Users\Serkan\Dropbox (Null)\Null Team Folder\Projeler\Masaüstü\Düzenlenecek\SQL Yardımcısı\SQL Yardımcısı v2\obj\Debug\SQL_Yardimcisi.csproj.GenerateResource.Cache
+C:\Users\Serkan\Desktop\SQL Yardımcısı v2\bin\Debug\SQL Yardimcisi.exe.config
+C:\Users\Serkan\Desktop\SQL Yardımcısı v2\obj\Debug\SQL Yardimcisi.exe
+C:\Users\Serkan\Desktop\SQL Yardımcısı v2\obj\Debug\SQL Yardimcisi.pdb
+C:\Users\Serkan\Desktop\SQL Yardımcısı v2\bin\Debug\vt_Sql.mdb
+C:\Users\Serkan\Desktop\SQL Yardımcısı v2\bin\Debug\SQL Yardimcisi.exe
+C:\Users\Serkan\Desktop\SQL Yardımcısı v2\bin\Debug\SQL Yardimcisi.pdb
+C:\Users\Serkan\Desktop\SQL Yardımcısı v2\obj\Debug\SQL_Yardimcisi.csprojResolveAssemblyReference.cache
+C:\Users\Serkan\Desktop\SQL Yardımcısı v2\obj\Debug\SQL_Yardimcisi.frm_Bul.resources
+C:\Users\Serkan\Desktop\SQL Yardımcısı v2\obj\Debug\SQL_Yardimcisi.frm_Degistir.resources
+C:\Users\Serkan\Desktop\SQL Yardımcısı v2\obj\Debug\SQL_Yardimcisi.frm_Hakkinda.resources
+C:\Users\Serkan\Desktop\SQL Yardımcısı v2\obj\Debug\SQL_Yardimcisi.frm_Anaform.resources
+C:\Users\Serkan\Desktop\SQL Yardımcısı v2\obj\Debug\KareRadioButton.resources
+C:\Users\Serkan\Desktop\SQL Yardımcısı v2\obj\Debug\SQL_Yardimcisi.Properties.Resources.resources
+C:\Users\Serkan\Desktop\SQL Yardımcısı v2\obj\Debug\SQL_Yardimcisi.csproj.GenerateResource.Cache
+C:\Users\Serkan\Desktop\SQL Yardımcısı vs2\SQL Yardımcısı\bin\Debug\vt_Sql.mdb
+C:\Users\Serkan\Desktop\SQL Yardımcısı vs2\SQL Yardımcısı\bin\Debug\SQL Yardimcisi.exe.config
+C:\Users\Serkan\Desktop\SQL Yardımcısı vs2\SQL Yardımcısı\bin\Debug\SQL Yardimcisi.exe
+C:\Users\Serkan\Desktop\SQL Yardımcısı vs2\SQL Yardımcısı\bin\Debug\SQL Yardimcisi.pdb
+C:\Users\Serkan\Desktop\SQL Yardımcısı vs2\SQL Yardımcısı\obj\Debug\SQL_Yardimcisi.frm_Bul.resources
+C:\Users\Serkan\Desktop\SQL Yardımcısı vs2\SQL Yardımcısı\obj\Debug\SQL_Yardimcisi.frm_Degistir.resources
+C:\Users\Serkan\Desktop\SQL Yardımcısı vs2\SQL Yardımcısı\obj\Debug\SQL_Yardimcisi.frm_Hakkinda.resources
+C:\Users\Serkan\Desktop\SQL Yardımcısı vs2\SQL Yardımcısı\obj\Debug\SQL_Yardimcisi.frm_Anaform.resources
+C:\Users\Serkan\Desktop\SQL Yardımcısı vs2\SQL Yardımcısı\obj\Debug\KareRadioButton.resources
+C:\Users\Serkan\Desktop\SQL Yardımcısı vs2\SQL Yardımcısı\obj\Debug\SQL_Yardimcisi.Properties.Resources.resources
+C:\Users\Serkan\Desktop\SQL Yardımcısı vs2\SQL Yardımcısı\obj\Debug\SQL_Yardimcisi.csproj.GenerateResource.Cache
+C:\Users\Serkan\Desktop\SQL Yardımcısı vs2\SQL Yardımcısı\obj\Debug\SQL Yardimcisi.exe
+C:\Users\Serkan\Desktop\SQL Yardımcısı vs2\SQL Yardımcısı\obj\Debug\SQL Yardimcisi.pdb
+C:\Users\musta\Dropbox (Null)\Null Team Folder\Projeler\Masaüstü\Düzenlenecek\SQL Yardımcısı\SQL Yardımcısı vs2\SQL Yardımcısı\bin\Debug\SQL Yardimcisi.exe.config
+C:\Users\musta\Dropbox (Null)\Null Team Folder\Projeler\Masaüstü\Düzenlenecek\SQL Yardımcısı\SQL Yardımcısı vs2\SQL Yardımcısı\obj\Debug\SQL Yardimcisi.exe
+C:\Users\musta\Dropbox (Null)\Null Team Folder\Projeler\Masaüstü\Düzenlenecek\SQL Yardımcısı\SQL Yardımcısı vs2\SQL Yardımcısı\obj\Debug\SQL Yardimcisi.pdb
+C:\Users\musta\Dropbox (Null)\Null Team Folder\Projeler\Masaüstü\Düzenlenecek\SQL Yardımcısı\SQL Yardımcısı vs2\SQL Yardımcısı\bin\Debug\vt_Sql.mdb
+C:\Users\musta\Dropbox (Null)\Null Team Folder\Projeler\Masaüstü\Düzenlenecek\SQL Yardımcısı\SQL Yardımcısı vs2\SQL Yardımcısı\bin\Debug\SQL Yardimcisi.exe
+C:\Users\musta\Dropbox (Null)\Null Team Folder\Projeler\Masaüstü\Düzenlenecek\SQL Yardımcısı\SQL Yardımcısı vs2\SQL Yardımcısı\bin\Debug\SQL Yardimcisi.pdb
+C:\Users\musta\Dropbox (Null)\Null Team Folder\Projeler\Masaüstü\Düzenlenecek\SQL Yardımcısı\SQL Yardımcısı vs2\SQL Yardımcısı\obj\Debug\SQL_Yardimcisi.csprojResolveAssemblyReference.cache
+C:\Users\musta\Dropbox (Null)\Null Team Folder\Projeler\Masaüstü\Düzenlenecek\SQL Yardımcısı\SQL Yardımcısı vs2\SQL Yardımcısı\obj\Debug\SQL_Yardimcisi.frm_Bul.resources
+C:\Users\musta\Dropbox (Null)\Null Team Folder\Projeler\Masaüstü\Düzenlenecek\SQL Yardımcısı\SQL Yardımcısı vs2\SQL Yardımcısı\obj\Debug\SQL_Yardimcisi.frm_Degistir.resources
+C:\Users\musta\Dropbox (Null)\Null Team Folder\Projeler\Masaüstü\Düzenlenecek\SQL Yardımcısı\SQL Yardımcısı vs2\SQL Yardımcısı\obj\Debug\SQL_Yardimcisi.frm_Hakkinda.resources
+C:\Users\musta\Dropbox (Null)\Null Team Folder\Projeler\Masaüstü\Düzenlenecek\SQL Yardımcısı\SQL Yardımcısı vs2\SQL Yardımcısı\obj\Debug\SQL_Yardimcisi.frm_Anaform.resources
+C:\Users\musta\Dropbox (Null)\Null Team Folder\Projeler\Masaüstü\Düzenlenecek\SQL Yardımcısı\SQL Yardımcısı vs2\SQL Yardımcısı\obj\Debug\KareRadioButton.resources
+C:\Users\musta\Dropbox (Null)\Null Team Folder\Projeler\Masaüstü\Düzenlenecek\SQL Yardımcısı\SQL Yardımcısı vs2\SQL Yardımcısı\obj\Debug\SQL_Yardimcisi.Properties.Resources.resources
+C:\Users\musta\Dropbox (Null)\Null Team Folder\Projeler\Masaüstü\Düzenlenecek\SQL Yardımcısı\SQL Yardımcısı vs2\SQL Yardımcısı\obj\Debug\SQL_Yardimcisi.csproj.GenerateResource.Cache
+C:\Users\Serkan\Desktop\SQL Yardımcısı\SQL Yardımcısı\bin\Debug\SQL Yardimcisi.exe.config
+C:\Users\Serkan\Desktop\SQL Yardımcısı\SQL Yardımcısı\obj\Debug\SQL Yardimcisi.exe
+C:\Users\Serkan\Desktop\SQL Yardımcısı\SQL Yardımcısı\obj\Debug\SQL Yardimcisi.pdb
+C:\Users\Serkan\Desktop\SQL Yardımcısı\SQL Yardımcısı\bin\Debug\vt_Sql.mdb
+C:\Users\Serkan\Desktop\SQL Yardımcısı\SQL Yardımcısı\bin\Debug\SQL Yardimcisi.exe
+C:\Users\Serkan\Desktop\SQL Yardımcısı\SQL Yardımcısı\bin\Debug\SQL Yardimcisi.pdb
+C:\Users\Serkan\Desktop\SQL Yardımcısı\SQL Yardımcısı\obj\Debug\SQL_Yardimcisi.frm_Bul.resources
+C:\Users\Serkan\Desktop\SQL Yardımcısı\SQL Yardımcısı\obj\Debug\SQL_Yardimcisi.frm_Degistir.resources
+C:\Users\Serkan\Desktop\SQL Yardımcısı\SQL Yardımcısı\obj\Debug\SQL_Yardimcisi.frm_Hakkinda.resources
+C:\Users\Serkan\Desktop\SQL Yardımcısı\SQL Yardımcısı\obj\Debug\SQL_Yardimcisi.frm_Anaform.resources
+C:\Users\Serkan\Desktop\SQL Yardımcısı\SQL Yardımcısı\obj\Debug\KareRadioButton.resources
+C:\Users\Serkan\Desktop\SQL Yardımcısı\SQL Yardımcısı\obj\Debug\SQL_Yardimcisi.Properties.Resources.resources
+C:\Users\Serkan\Desktop\SQL Yardımcısı\SQL Yardımcısı\obj\Debug\SQL_Yardimcisi.csproj.GenerateResource.Cache
+C:\Users\TURMOB\Dropbox\Null Team Folder\Projeler\Masaüstü\Yayına Hazır\SQL Yardımcısı\SQL Yardımcısı\bin\Debug\SQL Yardimcisi.exe.config
+C:\Users\TURMOB\Dropbox\Null Team Folder\Projeler\Masaüstü\Yayına Hazır\SQL Yardımcısı\SQL Yardımcısı\obj\Debug\SQL Yardimcisi.exe
+C:\Users\TURMOB\Dropbox\Null Team Folder\Projeler\Masaüstü\Yayına Hazır\SQL Yardımcısı\SQL Yardımcısı\obj\Debug\SQL Yardimcisi.pdb
+C:\Users\TURMOB\Dropbox\Null Team Folder\Projeler\Masaüstü\Yayına Hazır\SQL Yardımcısı\SQL Yardımcısı\bin\Debug\vt_Sql.mdb
+C:\Users\TURMOB\Dropbox\Null Team Folder\Projeler\Masaüstü\Yayına Hazır\SQL Yardımcısı\SQL Yardımcısı\bin\Debug\SQL Yardimcisi.exe
+C:\Users\TURMOB\Dropbox\Null Team Folder\Projeler\Masaüstü\Yayına Hazır\SQL Yardımcısı\SQL Yardımcısı\bin\Debug\SQL Yardimcisi.pdb
+C:\Users\TURMOB\Dropbox\Null Team Folder\Projeler\Masaüstü\Yayına Hazır\SQL Yardımcısı\SQL Yardımcısı\obj\Debug\SQL_Yardimcisi.csprojResolveAssemblyReference.cache
+C:\Users\TURMOB\Dropbox\Null Team Folder\Projeler\Masaüstü\Yayına Hazır\SQL Yardımcısı\SQL Yardımcısı\obj\Debug\SQL_Yardimcisi.frm_Bul.resources
+C:\Users\TURMOB\Dropbox\Null Team Folder\Projeler\Masaüstü\Yayına Hazır\SQL Yardımcısı\SQL Yardımcısı\obj\Debug\SQL_Yardimcisi.frm_Degistir.resources
+C:\Users\TURMOB\Dropbox\Null Team Folder\Projeler\Masaüstü\Yayına Hazır\SQL Yardımcısı\SQL Yardımcısı\obj\Debug\SQL_Yardimcisi.frm_Hakkinda.resources
+C:\Users\TURMOB\Dropbox\Null Team Folder\Projeler\Masaüstü\Yayına Hazır\SQL Yardımcısı\SQL Yardımcısı\obj\Debug\SQL_Yardimcisi.frm_Anaform.resources
+C:\Users\TURMOB\Dropbox\Null Team Folder\Projeler\Masaüstü\Yayına Hazır\SQL Yardımcısı\SQL Yardımcısı\obj\Debug\KareRadioButton.resources
+C:\Users\TURMOB\Dropbox\Null Team Folder\Projeler\Masaüstü\Yayına Hazır\SQL Yardımcısı\SQL Yardımcısı\obj\Debug\SQL_Yardimcisi.Properties.Resources.resources
+C:\Users\TURMOB\Dropbox\Null Team Folder\Projeler\Masaüstü\Yayına Hazır\SQL Yardımcısı\SQL Yardımcısı\obj\Debug\SQL_Yardimcisi.csproj.GenerateResource.Cache
+D:\Serkan Yarar\C# Programlar\2 Şirket\1 Programs\SQL Yardımcısı\SQL Yardımcısı\bin\Debug\SQL Yardimcisi.exe.config
+D:\Serkan Yarar\C# Programlar\2 Şirket\1 Programs\SQL Yardımcısı\SQL Yardımcısı\obj\Debug\SQL Yardimcisi.exe
+D:\Serkan Yarar\C# Programlar\2 Şirket\1 Programs\SQL Yardımcısı\SQL Yardımcısı\obj\Debug\SQL Yardimcisi.pdb
+D:\Serkan Yarar\C# Programlar\2 Şirket\1 Programs\SQL Yardımcısı\SQL Yardımcısı\bin\Debug\vt_Sql.mdb
+D:\Serkan Yarar\C# Programlar\2 Şirket\1 Programs\SQL Yardımcısı\SQL Yardımcısı\bin\Debug\SQL Yardimcisi.exe
+D:\Serkan Yarar\C# Programlar\2 Şirket\1 Programs\SQL Yardımcısı\SQL Yardımcısı\bin\Debug\SQL Yardimcisi.pdb
+D:\Serkan Yarar\C# Programlar\2 Şirket\1 Programs\SQL Yardımcısı\SQL Yardımcısı\obj\Debug\SQL_Yardimcisi.csprojResolveAssemblyReference.cache
+D:\Serkan Yarar\C# Programlar\2 Şirket\1 Programs\SQL Yardımcısı\SQL Yardımcısı\obj\Debug\SQL_Yardimcisi.frm_Bul.resources
+D:\Serkan Yarar\C# Programlar\2 Şirket\1 Programs\SQL Yardımcısı\SQL Yardımcısı\obj\Debug\SQL_Yardimcisi.frm_Degistir.resources
+D:\Serkan Yarar\C# Programlar\2 Şirket\1 Programs\SQL Yardımcısı\SQL Yardımcısı\obj\Debug\SQL_Yardimcisi.frm_Hakkinda.resources
+D:\Serkan Yarar\C# Programlar\2 Şirket\1 Programs\SQL Yardımcısı\SQL Yardımcısı\obj\Debug\SQL_Yardimcisi.frm_Anaform.resources
+D:\Serkan Yarar\C# Programlar\2 Şirket\1 Programs\SQL Yardımcısı\SQL Yardımcısı\obj\Debug\KareRadioButton.resources
+D:\Serkan Yarar\C# Programlar\2 Şirket\1 Programs\SQL Yardımcısı\SQL Yardımcısı\obj\Debug\SQL_Yardimcisi.Properties.Resources.resources
+D:\Serkan Yarar\C# Programlar\2 Şirket\1 Programs\SQL Yardımcısı\SQL Yardımcısı\obj\Debug\SQL_Yardimcisi.csproj.GenerateResource.Cache
